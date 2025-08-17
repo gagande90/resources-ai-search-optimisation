@@ -2,6 +2,8 @@
 
 A modern, professional WordPress theme designed specifically for AI Search Optimisation blogs and websites. This theme features a clean, minimalist design with excellent typography and responsive layout.
 
+**Current Version:** 0.1.0 | **Status:** Stable
+
 ![Theme Preview](screenshot.png)
 
 ## 🚀 Features
@@ -154,6 +156,26 @@ Clean typography with author bio and social links.
 
 ### Author Bio
 Professional gradient background with expertise display.
+
+## 📈 Version History
+
+- **v0.1.0** (2025-08-17) - Initial release with core functionality
+- See [CHANGELOG.md](CHANGELOG.md) for detailed version history
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines
+
+## 🔄 Future Development
+
+This theme is actively maintained and developed. Planned features include:
+- Dark mode toggle
+- Advanced typography settings
+- Custom color schemes
+- Performance optimizations
+- Additional social media integrations
+
+## 📦 Downloads
+
+- **Latest Release**: [v0.1.0](https://github.com/gagande90/resources-ai-search-optimisation/releases/tag/v0.1)
+- **Theme ZIP**: Available in releases for easy WordPress installation
 
 ---
 
